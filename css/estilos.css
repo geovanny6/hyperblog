@@ -24,3 +24,8 @@ body
 #post{
     padding: 1em
 }
+#cabecera span
+{
+    font-size: 0.5em;
+    color: #ddd;
+}
